@@ -102,3 +102,6 @@ bar | baz |
 
 - [ ] Item 1
 - [x] Item 2
+
+## Issues
+[#1](/../../issues/1)
